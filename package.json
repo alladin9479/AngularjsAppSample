@@ -27,7 +27,7 @@
     "@uirouter/dsr": "^1.0.2",
     "@uirouter/sticky-states": "^1.5.0",
     "@uirouter/visualizer": "^6.0.2",
-    "angular": "^1.7.4",
+    "angular": "^1.7.5",
     "oclazyload": "^1.1.0"
   },
   "devDependencies": {
@@ -41,6 +41,6 @@
     "source-map-loader": "^0.2.4",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "webpack-dev-server": "^3.1.10"
   }
 }
